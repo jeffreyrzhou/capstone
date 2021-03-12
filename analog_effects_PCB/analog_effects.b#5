@@ -56,6 +56,7 @@
 <layer number="96" name="Values" color="7" fill="1" visible="no" active="no"/>
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
+<layer number="99" name="SpiceOrder" color="7" fill="1" visible="no" active="no"/>
 </layers>
 <board>
 <plain>
@@ -1195,6 +1196,152 @@
 </package>
 </packages>
 </library>
+<library name="GRM188R6YA225KA12D">
+<packages>
+<package name="CAPC1608X90N">
+<text x="-1.46" y="-0.8" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-1.46" y="0.8" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="0.85" y1="-0.45" x2="-0.85" y2="-0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="-0.45" x2="0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-0.85" y1="-0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-1.465" y1="-0.715" x2="1.465" y2="-0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="-0.715" x2="-1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="1.465" y1="-0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<smd name="1" x="-0.77" y="0" dx="0.89" dy="0.93" layer="1"/>
+<smd name="2" x="0.77" y="0" dx="0.89" dy="0.93" layer="1"/>
+</package>
+</packages>
+</library>
+<library name="CRCW060333K0JNEAHP">
+<packages>
+<package name="RESC1608X55N">
+<text x="-1.46" y="-0.82" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-1.46" y="0.82" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="0.85" y1="-0.47" x2="-0.85" y2="-0.47" width="0.127" layer="51"/>
+<wire x1="0.85" y1="0.47" x2="-0.85" y2="0.47" width="0.127" layer="51"/>
+<wire x1="0.85" y1="-0.47" x2="0.85" y2="0.47" width="0.127" layer="51"/>
+<wire x1="-0.85" y1="-0.47" x2="-0.85" y2="0.47" width="0.127" layer="51"/>
+<wire x1="-1.465" y1="-0.74" x2="1.465" y2="-0.74" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="0.74" x2="1.465" y2="0.74" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="-0.74" x2="-1.465" y2="0.74" width="0.05" layer="39"/>
+<wire x1="1.465" y1="-0.74" x2="1.465" y2="0.74" width="0.05" layer="39"/>
+<smd name="1" x="-0.78" y="0" dx="0.87" dy="0.98" layer="1"/>
+<smd name="2" x="0.78" y="0" dx="0.87" dy="0.98" layer="1"/>
+</package>
+</packages>
+</library>
+<library name="CRCW06038K20FKEAC">
+<packages>
+<package name="RESC1608X55N">
+<text x="-1.46" y="-0.8" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-1.46" y="0.8" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="0.85" y1="-0.45" x2="-0.85" y2="-0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="-0.45" x2="0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-0.85" y1="-0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-1.465" y1="-0.715" x2="1.465" y2="-0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="-0.715" x2="-1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="1.465" y1="-0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<smd name="1" x="-0.78" y="0" dx="0.87" dy="0.93" layer="1"/>
+<smd name="2" x="0.78" y="0" dx="0.87" dy="0.93" layer="1"/>
+</package>
+</packages>
+</library>
+<library name="CRCW0603470RJNEBC">
+<packages>
+<package name="RESC1608X55N">
+<text x="-1.46" y="-0.8" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-1.46" y="0.8" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="0.85" y1="-0.45" x2="-0.85" y2="-0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="0.85" y1="-0.45" x2="0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-0.85" y1="-0.45" x2="-0.85" y2="0.45" width="0.127" layer="51"/>
+<wire x1="-1.465" y1="-0.715" x2="1.465" y2="-0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="-1.465" y1="-0.715" x2="-1.465" y2="0.715" width="0.05" layer="39"/>
+<wire x1="1.465" y1="-0.715" x2="1.465" y2="0.715" width="0.05" layer="39"/>
+<smd name="1" x="-0.78" y="0" dx="0.87" dy="0.93" layer="1"/>
+<smd name="2" x="0.78" y="0" dx="0.87" dy="0.93" layer="1"/>
+</package>
+</packages>
+</library>
+<library name="AD5258BRMZ1-R7">
+<packages>
+<package name="SOP50P490X110-10N">
+<wire x1="-1.5494" y1="0.8382" x2="-1.5494" y2="1.1684" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="1.1684" x2="-2.5654" y2="1.1684" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="1.1684" x2="-2.5654" y2="0.8382" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="0.8382" x2="-1.5494" y2="0.8382" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="0.3302" x2="-1.5494" y2="0.6604" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="0.6604" x2="-2.5654" y2="0.6604" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="0.6604" x2="-2.5654" y2="0.3302" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="0.3302" x2="-1.5494" y2="0.3302" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-0.1524" x2="-1.5494" y2="0.1524" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="0.1524" x2="-2.5654" y2="0.1524" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="0.1524" x2="-2.5654" y2="-0.1778" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="-0.1778" x2="-1.5494" y2="-0.1524" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-0.6604" x2="-1.5494" y2="-0.3302" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-0.3302" x2="-2.5654" y2="-0.3302" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="-0.3302" x2="-2.5654" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="-0.6604" x2="-1.5494" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-1.1684" x2="-1.5494" y2="-0.8382" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-0.8382" x2="-2.5654" y2="-0.8382" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="-0.8382" x2="-2.5654" y2="-1.1684" width="0.1524" layer="51"/>
+<wire x1="-2.5654" y1="-1.1684" x2="-1.5494" y2="-1.1684" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-0.8382" x2="1.5494" y2="-1.1684" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-1.1684" x2="2.5654" y2="-1.1684" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="-1.1684" x2="2.5654" y2="-0.8382" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="-0.8382" x2="1.5494" y2="-0.8382" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-0.3302" x2="1.5494" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-0.6604" x2="2.5654" y2="-0.6604" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="-0.6604" x2="2.5654" y2="-0.3302" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="-0.3302" x2="1.5494" y2="-0.3302" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="0.1524" x2="1.5494" y2="-0.1524" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-0.1524" x2="2.5654" y2="-0.1524" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="-0.1524" x2="2.5654" y2="0.1778" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="0.1778" x2="1.5494" y2="0.1524" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="0.6604" x2="1.5494" y2="0.3302" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="0.3302" x2="2.5654" y2="0.3302" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="0.3302" x2="2.5654" y2="0.6604" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="0.6604" x2="1.5494" y2="0.6604" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="1.1684" x2="1.5494" y2="0.8382" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="0.8382" x2="2.5654" y2="0.8382" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="0.8382" x2="2.5654" y2="1.1684" width="0.1524" layer="51"/>
+<wire x1="2.5654" y1="1.1684" x2="1.5494" y2="1.1684" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="-1.5494" x2="1.5494" y2="-1.5494" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="-1.5494" x2="1.5494" y2="1.5494" width="0.1524" layer="51"/>
+<wire x1="1.5494" y1="1.5494" x2="0.3048" y2="1.5494" width="0.1524" layer="51"/>
+<wire x1="0.3048" y1="1.5494" x2="-0.3048" y2="1.5494" width="0.1524" layer="51"/>
+<wire x1="-0.3048" y1="1.5494" x2="-1.5494" y2="1.5494" width="0.1524" layer="51"/>
+<wire x1="-1.5494" y1="1.5494" x2="-1.5494" y2="-1.5494" width="0.1524" layer="51"/>
+<wire x1="0.3048" y1="1.5494" x2="-0.3048" y2="1.5494" width="0.1524" layer="51" curve="-180"/>
+<wire x1="-1.5494" y1="-1.5494" x2="1.5494" y2="-1.5494" width="0.1524" layer="21"/>
+<wire x1="1.5494" y1="1.5494" x2="0.3048" y2="1.5494" width="0.1524" layer="21"/>
+<wire x1="0.3048" y1="1.5494" x2="-0.3048" y2="1.5494" width="0.1524" layer="21"/>
+<wire x1="-0.3048" y1="1.5494" x2="-1.5494" y2="1.5494" width="0.1524" layer="21"/>
+<wire x1="0.3048" y1="1.5494" x2="-0.3048" y2="1.5494" width="0.1524" layer="21" curve="-180"/>
+<wire x1="3.429" y1="1.1938" x2="3.429" y2="0.8128" width="0.1524" layer="49"/>
+<wire x1="3.429" y1="0.8128" x2="3.175" y2="0.8128" width="0.1524" layer="49"/>
+<wire x1="3.175" y1="0.8128" x2="3.175" y2="1.1938" width="0.1524" layer="49"/>
+<text x="-3.006259375" y="1.1974" size="1.273840625" layer="49" ratio="6" rot="SR0">*</text>
+<text x="-2.877459375" y="2.54641875" size="2.08806875" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
+<text x="-3.46063125" y="-4.45301875" size="2.086559375" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
+<smd name="1" x="-2.1844" y="0.9906" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="2" x="-2.1844" y="0.508" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="3" x="-2.1844" y="0" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="4" x="-2.1844" y="-0.508" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="5" x="-2.1844" y="-0.9906" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="6" x="2.1844" y="-0.9906" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="7" x="2.1844" y="-0.508" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="8" x="2.1844" y="0" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="9" x="2.1844" y="0.508" dx="1.4986" dy="0.3302" layer="1"/>
+<smd name="10" x="2.1844" y="0.9906" dx="1.4986" dy="0.3302" layer="1"/>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1718,39 +1865,6 @@ design rules under a new name.</description>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-109.22" y="-41.91" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="-110.66" y="-42.73" size="0.5" layer="27" align="top-left"/>
 </element>
-<element name="R7" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-109.22" y="-45.72" smashed="yes">
-<attribute name="AVAILABILITY" value="Good" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Vishay Dale" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="CRCW0603100KDHEAP" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-110.66" y="-44.9" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1508 Vishay" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-109.22" y="-45.72" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-110.66" y="-46.54" size="0.5" layer="27" align="top-left"/>
-</element>
-<element name="R9" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-109.22" y="-49.53" smashed="yes">
-<attribute name="AVAILABILITY" value="Good" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Vishay Dale" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="CRCW0603100KDHEAP" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-110.66" y="-48.71" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1508 Vishay" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-109.22" y="-49.53" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-110.66" y="-50.35" size="0.5" layer="27" align="top-left"/>
-</element>
-<element name="R8" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-109.22" y="-53.34" smashed="yes">
-<attribute name="AVAILABILITY" value="Good" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Vishay Dale" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="CRCW0603100KDHEAP" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-110.66" y="-52.52" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1508 Vishay" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-109.22" y="-53.34" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-110.66" y="-54.16" size="0.5" layer="27" align="top-left"/>
-</element>
 <element name="U3" library="AD5241BRZ10" package="SOIC127P600X175-14N" value="AD5241BRZ10" x="-106.68" y="-64.77" smashed="yes">
 <attribute name="AVAILABILITY" value="Good" x="-120.65" y="-45.72" size="1.778" layer="27" display="off"/>
 <attribute name="DESCRIPTION" value=" Digital Potentiometer 10k Ohm 1 Circuit 256 Taps I²C Interface 14-SOIC " x="-120.65" y="-45.72" size="1.778" layer="27" display="off"/>
@@ -1772,6 +1886,192 @@ design rules under a new name.</description>
 <attribute name="PRICE" value="None" x="-120.65" y="-64.77" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/AD5241BRZ100/?ref=eda" x="-120.65" y="-64.77" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="-124.1044" y="-72.39" size="2.0828" layer="27" ratio="10" rot="SR0"/>
+</element>
+<element name="R13" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-74.93" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-74.11" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-74.93" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-75.75" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R14" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-78.74" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-77.92" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-78.74" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-79.56" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R15" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-82.55" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-81.73" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-82.55" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-83.37" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R7" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-86.36" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-85.54" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-86.36" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-87.18" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R8" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-90.17" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-89.35" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-90.17" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-90.99" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R9" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-93.98" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-93.16" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-93.98" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-94.8" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="C6" library="GRM188R6YA225KA12D" package="CAPC1608X90N" value="GRM188R6YA225KA12D" x="-121.92" y="-97.79" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X5R(EIA) with capacitance 2.2uF Tol.10%. Rated voltage 35Vdc 85C " x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Murata" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="GRM188R6YA225KA12D" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.38" y="-96.99" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1608 Murata" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GRM188R6YA225KA12D/?ref=eda" x="-121.92" y="-97.79" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.38" y="-98.59" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R16" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-101.6" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-100.78" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-121.92" y="-101.6" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-102.42" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R17" library="CRCW060333K0JNEAHP" package="RESC1608X55N" value="CRCW060333K0JNEAHP" x="-121.92" y="-105.41" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" RES SMD 33K OHM 5% 1/4W 0603 " x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW060333K0JNEAHP" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.38" y="-104.59" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1608 Vishay" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW060333K0JNEAHP/?ref=eda" x="-121.92" y="-105.41" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.38" y="-106.23" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="BT2" library="BC9VPC" package="BAT_BC9VPC" value="BC9VPC" x="-96.52" y="-125.73" smashed="yes">
+<attribute name="DESCRIPTION" value=" BATTERY HOLDER 9V PC PIN " x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="DIGI-KEY_PART_NUMBER" value="BC9VPC-ND" x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="MPD" x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="BC9VPC" x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-124.02" y="-109.73" size="1.778" layer="25"/>
+<attribute name="PACKAGE" value="None" x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/BC9VPC/?ref=eda" x="-96.52" y="-125.73" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-124.02" y="-143.23" size="1.778" layer="27"/>
+</element>
+<element name="R18" library="CRCW06038K20FKEAC" package="RESC1608X55N" value="CRCW06038K20FKEAC" x="-121.92" y="-149.86" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 8.2K Ohm 1% 0.1W(1/10W) ±100ppm/°C Pad SMD T/R " x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW06038K20FKEAC" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.38" y="-149.06" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1608 Rohm Semiconductor" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW06038K20FKEAC/?ref=eda" x="-121.92" y="-149.86" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.38" y="-150.66" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R19" library="CRCW0603470RJNEBC" package="RESC1608X55N" value="CRCW0603470RJNEBC" x="-121.92" y="-153.67" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" 470 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film " x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603470RJNEBC" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.38" y="-152.87" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1608 Rohm Semiconductor" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603470RJNEBC/?ref=eda" x="-121.92" y="-153.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.38" y="-154.47" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="U6" library="AD5241BRZ100" package="SOIC127P600X175-14N" value="AD5241BRZ100" x="-120.65" y="-165.1" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Digital Potentiometer 100k Ohm 1 Circuit 256 Taps I²C Interface 14-SOIC " x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Analog Devices" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="AD5241BRZ100" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-124.1044" y="-159.385" size="2.0828" layer="25" ratio="10" rot="SR0"/>
+<attribute name="PACKAGE" value="SOIC-14 Analog Devices" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/AD5241BRZ100/?ref=eda" x="-133.35" y="-146.05" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-124.1044" y="-172.72" size="2.0828" layer="27" ratio="10" rot="SR0"/>
+</element>
+<element name="R20" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-121.92" y="-175.26" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-123.36" y="-174.44" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-134.62" y="-157.48" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-123.36" y="-176.08" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R21" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-118.11" y="-175.26" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-119.55" y="-174.44" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-134.62" y="-161.29" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-119.55" y="-176.08" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R22" library="CRCW0603100KDHEAP" package="RESC1508X50N" value="100kΩ" x="-114.3" y="-175.26" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thick Film 0603 100K Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R " x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay Dale" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="CRCW0603100KDHEAP" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-115.74" y="-174.44" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/CRCW0603100KDHEAP/?ref=eda" x="-134.62" y="-165.1" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-115.74" y="-176.08" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="U7" library="AD5258BRMZ1-R7" package="SOP50P490X110-10N" value="AD5258BRMZ1-R7" x="-119.38" y="-182.88" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Digital Potentiometer 1k Ohm 1 Circuit 64 Taps I²C Interface 10-MSOP " x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Analog Devices Inc." x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="AD5258BRMZ1-R7" x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-122.257459375" y="-180.33358125" size="2.08806875" layer="25" ratio="10" rot="SR0"/>
+<attribute name="PACKAGE" value="None" x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/AD5258BRMZ1-R7/?ref=eda" x="-119.38" y="-182.88" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-122.84063125" y="-187.33301875" size="2.086559375" layer="27" ratio="10" rot="SR0"/>
 </element>
 </elements>
 <signals>
@@ -1825,6 +2125,27 @@ design rules under a new name.</description>
 <contactref element="U2" pad="11"/>
 <contactref element="U2" pad="10"/>
 <contactref element="U4" pad="2"/>
+<contactref element="U4" pad="8"/>
+<contactref element="U4" pad="9"/>
+<contactref element="U4" pad="11"/>
+<contactref element="U4" pad="10"/>
+<contactref element="U3" pad="8"/>
+<contactref element="U3" pad="9"/>
+<contactref element="U3" pad="11"/>
+<contactref element="U3" pad="10"/>
+<contactref element="U6" pad="2"/>
+<contactref element="U6" pad="8"/>
+<contactref element="U6" pad="9"/>
+<contactref element="U6" pad="11"/>
+<contactref element="U6" pad="10"/>
+<wire x1="-118.1862" y1="-67.31" x2="-118.1862" y2="-68.58" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-66.04" x2="-118.1862" y2="-67.31" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-64.77" x2="-118.1862" y2="-66.04" width="0" layer="19" extent="1-1"/>
+<wire x1="-123.1138" y1="-62.23" x2="-118.1862" y2="-64.77" width="0" layer="19" extent="1-1"/>
+<wire x1="-104.2162" y1="-68.58" x2="-118.1862" y2="-68.58" width="0" layer="19" extent="1-1"/>
+<wire x1="-104.2162" y1="-67.31" x2="-104.2162" y2="-68.58" width="0" layer="19" extent="1-1"/>
+<wire x1="-104.2162" y1="-66.04" x2="-104.2162" y2="-67.31" width="0" layer="19" extent="1-1"/>
+<wire x1="-104.2162" y1="-64.77" x2="-104.2162" y2="-66.04" width="0" layer="19" extent="1-1"/>
 <wire x1="-110.625" y1="-8.37" x2="-123.1138" y2="-62.23" width="0" layer="19" extent="1-1"/>
 <wire x1="-80.1878" y1="1.27" x2="-110.625" y2="-8.37" width="0" layer="19" extent="1-1"/>
 <wire x1="-80.1878" y1="2.54" x2="-80.1878" y2="1.27" width="0" layer="19" extent="1-1"/>
@@ -1838,6 +2159,11 @@ design rules under a new name.</description>
 <wire x1="-31.75" y1="58.42" x2="-33.06" y2="48.26" width="0" layer="19" extent="1-1"/>
 <wire x1="-19.821" y1="64.77" x2="-31.75" y2="58.42" width="0" layer="19" extent="1-1"/>
 <wire x1="-19.939" y1="16.383" x2="-26.67" y2="48.26" width="0" layer="19" extent="1-1"/>
+<wire x1="-123.1138" y1="-162.56" x2="-118.1862" y2="-68.58" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-165.1" x2="-123.1138" y2="-162.56" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-166.37" x2="-118.1862" y2="-165.1" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-167.64" x2="-118.1862" y2="-166.37" width="0" layer="19" extent="1-1"/>
+<wire x1="-118.1862" y1="-168.91" x2="-118.1862" y2="-167.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
 <contactref element="C3" pad="1"/>
@@ -1878,16 +2204,6 @@ design rules under a new name.</description>
 <contactref element="R1" pad="1"/>
 <wire x1="-17.78" y1="48.26" x2="-31.235" y2="64.77" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="VDD">
-<contactref element="U3" pad="4"/>
-<contactref element="U4" pad="4"/>
-<wire x1="-109.1438" y1="-64.77" x2="-123.1138" y2="-64.77" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="VSS">
-<contactref element="U3" pad="11"/>
-<contactref element="U4" pad="11"/>
-<wire x1="-104.2162" y1="-64.77" x2="-118.1862" y2="-64.77" width="0" layer="19" extent="1-1"/>
-</signal>
 <signal name="VCC">
 <contactref element="U5" pad="8"/>
 </signal>
@@ -1912,20 +2228,6 @@ design rules under a new name.</description>
 <contactref element="U2" pad="6"/>
 <wire x1="-84.9122" y1="2.54" x2="-109.985" y2="-41.91" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$10">
-<contactref element="R7" pad="1"/>
-<contactref element="R9" pad="1"/>
-<wire x1="-109.985" y1="-45.72" x2="-109.985" y2="-49.53" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$18">
-<contactref element="R7" pad="2"/>
-</signal>
-<signal name="N$9">
-<contactref element="R8" pad="2"/>
-</signal>
-<signal name="N$11">
-<contactref element="R8" pad="1"/>
-</signal>
 <signal name="N$12">
 <contactref element="U2" pad="5"/>
 <contactref element="R10" pad="1"/>
@@ -1938,8 +2240,116 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$16">
 <contactref element="C5" pad="2"/>
+<contactref element="U3" pad="3"/>
+<wire x1="-22.09" y1="64.77" x2="-109.1438" y2="-63.5" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$19">
+<contactref element="U4" pad="7"/>
+<contactref element="R13" pad="1"/>
+<wire x1="-123.1138" y1="-68.58" x2="-122.685" y2="-74.93" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$20">
+<contactref element="R13" pad="2"/>
+<contactref element="U4" pad="4"/>
+<contactref element="R15" pad="2"/>
+<contactref element="R14" pad="2"/>
+<wire x1="-121.155" y1="-78.74" x2="-121.155" y2="-82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="-121.155" y1="-74.93" x2="-121.155" y2="-78.74" width="0" layer="19" extent="1-1"/>
+<wire x1="-123.1138" y1="-64.77" x2="-121.155" y2="-74.93" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$21">
+<contactref element="U4" pad="6"/>
+<contactref element="R15" pad="1"/>
+<wire x1="-123.1138" y1="-67.31" x2="-122.685" y2="-82.55" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$23">
+<contactref element="R14" pad="1"/>
+<contactref element="U4" pad="5"/>
+<wire x1="-123.1138" y1="-66.04" x2="-122.685" y2="-78.74" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$22">
 <contactref element="U4" pad="3"/>
-<wire x1="-22.09" y1="64.77" x2="-123.1138" y2="-63.5" width="0" layer="19" extent="1-1"/>
+<contactref element="U3" pad="2"/>
+<wire x1="-109.1438" y1="-62.23" x2="-123.1138" y2="-63.5" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$24">
+<contactref element="U3" pad="7"/>
+<contactref element="R7" pad="1"/>
+<wire x1="-109.1438" y1="-68.58" x2="-122.685" y2="-86.36" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$25">
+<contactref element="R7" pad="2"/>
+<contactref element="U3" pad="4"/>
+<contactref element="R8" pad="2"/>
+<contactref element="R9" pad="2"/>
+<wire x1="-121.155" y1="-90.17" x2="-121.155" y2="-93.98" width="0" layer="19" extent="1-1"/>
+<wire x1="-121.155" y1="-86.36" x2="-121.155" y2="-90.17" width="0" layer="19" extent="1-1"/>
+<wire x1="-109.1438" y1="-64.77" x2="-121.155" y2="-86.36" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$26">
+<contactref element="U3" pad="5"/>
+<contactref element="R9" pad="1"/>
+<wire x1="-109.1438" y1="-66.04" x2="-122.685" y2="-93.98" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$27">
+<contactref element="U3" pad="6"/>
+<contactref element="R8" pad="1"/>
+<wire x1="-109.1438" y1="-67.31" x2="-122.685" y2="-90.17" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="FUZZ_IN">
+<contactref element="C6" pad="1"/>
+</signal>
+<signal name="N$9">
+<contactref element="C6" pad="2"/>
+<contactref element="R16" pad="1"/>
+<wire x1="-121.15" y1="-97.79" x2="-122.685" y2="-101.6" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$10">
+<contactref element="R17" pad="1"/>
+</signal>
+<signal name="N$11">
+<contactref element="R17" pad="2"/>
+<contactref element="BT2" pad="N"/>
+<contactref element="R19" pad="2"/>
+<wire x1="-121.14" y1="-153.67" x2="-121.14" y2="-105.41" width="0" layer="19" extent="1-1"/>
+<wire x1="-70.739" y1="-132.207" x2="-121.14" y2="-153.67" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$18">
+<contactref element="R19" pad="1"/>
+<contactref element="R18" pad="1"/>
+<wire x1="-122.7" y1="-149.86" x2="-122.7" y2="-153.67" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$28">
+<contactref element="R16" pad="2"/>
+<contactref element="U6" pad="3"/>
+<wire x1="-123.1138" y1="-163.83" x2="-121.155" y2="-101.6" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$29">
+<contactref element="U6" pad="7"/>
+<contactref element="R20" pad="1"/>
+<wire x1="-123.1138" y1="-168.91" x2="-122.685" y2="-175.26" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$30">
+<contactref element="R20" pad="2"/>
+<contactref element="U6" pad="4"/>
+<contactref element="R22" pad="2"/>
+<contactref element="R21" pad="2"/>
+<wire x1="-117.345" y1="-175.26" x2="-121.155" y2="-175.26" width="0" layer="19" extent="1-1"/>
+<wire x1="-113.535" y1="-175.26" x2="-117.345" y2="-175.26" width="0" layer="19" extent="1-1"/>
+<wire x1="-123.1138" y1="-165.1" x2="-121.155" y2="-175.26" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$31">
+<contactref element="U6" pad="6"/>
+<contactref element="R22" pad="1"/>
+<wire x1="-115.065" y1="-175.26" x2="-123.1138" y2="-167.64" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$32">
+<contactref element="R21" pad="1"/>
+<contactref element="U6" pad="5"/>
+<wire x1="-123.1138" y1="-166.37" x2="-118.875" y2="-175.26" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="VDD">
+<contactref element="U7" pad="8"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
