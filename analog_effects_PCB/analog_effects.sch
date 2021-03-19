@@ -2664,6 +2664,220 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
+<library name="RN111PC">
+<packages>
+<package name="SWITCHCRAFT_RN111PC">
+<wire x1="-19.69" y1="3.75" x2="-15.626" y2="7.94" width="0.127" layer="51"/>
+<wire x1="-15.626" y1="7.94" x2="5.68" y2="7.94" width="0.127" layer="51"/>
+<wire x1="5.68" y1="7.94" x2="5.68" y2="4.7625" width="0.127" layer="51"/>
+<wire x1="5.68" y1="4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="5.68" y1="-4.7625" x2="5.68" y2="-7.94" width="0.127" layer="51"/>
+<wire x1="5.68" y1="-7.94" x2="-15.626" y2="-7.94" width="0.127" layer="51"/>
+<wire x1="-15.626" y1="-7.94" x2="-19.69" y2="-3.75" width="0.127" layer="51"/>
+<wire x1="-19.69" y1="-3.75" x2="-19.69" y2="3.75" width="0.127" layer="51"/>
+<wire x1="5.68" y1="4.7625" x2="12.7" y2="4.7625" width="0.127" layer="51"/>
+<wire x1="12.7" y1="4.7625" x2="12.7" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="12.7" y1="-4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="-19.94" y1="3.875" x2="-19.94" y2="-3.875" width="0.05" layer="39"/>
+<wire x1="-19.94" y1="-3.875" x2="-15.751" y2="-8.19" width="0.05" layer="39"/>
+<wire x1="-15.751" y1="-8.19" x2="5.93" y2="-8.19" width="0.05" layer="39"/>
+<wire x1="5.93" y1="-8.19" x2="5.93" y2="-5.0125" width="0.05" layer="39"/>
+<wire x1="5.93" y1="-5.0125" x2="12.95" y2="-5.0125" width="0.05" layer="39"/>
+<wire x1="12.95" y1="-5.0125" x2="12.95" y2="5.0125" width="0.05" layer="39"/>
+<wire x1="12.95" y1="5.0125" x2="5.93" y2="5.0125" width="0.05" layer="39"/>
+<wire x1="5.93" y1="5.0125" x2="5.93" y2="8.19" width="0.05" layer="39"/>
+<wire x1="5.93" y1="8.19" x2="-15.751" y2="8.19" width="0.05" layer="39"/>
+<wire x1="-15.751" y1="8.19" x2="-19.94" y2="3.875" width="0.05" layer="39"/>
+<text x="-15.6" y="8.4" size="1.778" layer="25">&gt;NAME</text>
+<text x="-15.6" y="-10.2" size="1.778" layer="27">&gt;VALUE</text>
+<wire x1="-19.69" y1="3.75" x2="-15.626" y2="7.94" width="0.127" layer="21"/>
+<wire x1="-15.626" y1="7.94" x2="5.68" y2="7.94" width="0.127" layer="21"/>
+<wire x1="5.68" y1="7.94" x2="5.68" y2="4.7625" width="0.127" layer="21"/>
+<wire x1="5.68" y1="4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="21"/>
+<wire x1="5.68" y1="-4.7625" x2="5.68" y2="-7.94" width="0.127" layer="21"/>
+<wire x1="5.68" y1="-7.94" x2="-15.626" y2="-7.94" width="0.127" layer="21"/>
+<wire x1="-15.626" y1="-7.94" x2="-19.69" y2="-3.75" width="0.127" layer="21"/>
+<wire x1="-19.69" y1="-3.75" x2="-19.69" y2="3.75" width="0.127" layer="21"/>
+<wire x1="5.68" y1="4.7625" x2="12.7" y2="4.7625" width="0.127" layer="21"/>
+<wire x1="12.7" y1="4.7625" x2="12.7" y2="-4.7625" width="0.127" layer="21"/>
+<wire x1="12.7" y1="-4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="21"/>
+<circle x="-2.54" y="3.81" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-2.54" y="-3.81" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-15.24" y="0" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-15.24" y="0" radius="0.7995" width="1.599" layer="30"/>
+<circle x="-2.54" y="3.81" radius="0.7995" width="1.599" layer="30"/>
+<circle x="-2.54" y="-3.81" radius="0.7995" width="1.599" layer="30"/>
+<pad name="S" x="0" y="0" drill="1.46" diameter="2.19"/>
+<pad name="T" x="-12.7" y="6.35" drill="1.48" diameter="2.22"/>
+<hole x="-15.24" y="0" drill="2.69"/>
+<hole x="-2.54" y="3.81" drill="2.69"/>
+<hole x="-2.54" y="-3.81" drill="2.69"/>
+</package>
+</packages>
+<symbols>
+<symbol name="RN111PC">
+<wire x1="-8.89" y1="5.08" x2="-6.35" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="5.08" x2="-6.35" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-1.27" x2="-8.89" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-8.89" y1="-1.27" x2="-8.89" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-5.08" x2="5.08" y2="-5.08" width="0.254" layer="94"/>
+<text x="-5.08" y="7.62" size="1.778" layer="95">&gt;NAME</text>
+<text x="-5.08" y="-7.62" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
+<wire x1="-2.54" y1="0" x2="-1.27" y2="-1.27" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="-1.27" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="-5.08" x2="-6.35" y2="-1.27" width="0.254" layer="94"/>
+<pin name="S" x="10.16" y="-5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="T" x="10.16" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="RN111PC" prefix="J">
+<description>Connector 1/4" Phone Jack F 2 POS 7.62mm Solder RA Thru-Hole 5 Terminal 1 Port  &lt;a href="https://pricing.snapeda.com/parts/RN111PC/Switchcraft/view-part?ref=eda"&gt;Check prices&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="RN111PC" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SWITCHCRAFT_RN111PC">
+<connects>
+<connect gate="G$1" pin="S" pad="S"/>
+<connect gate="G$1" pin="T" pad="T"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="Good"/>
+<attribute name="DESCRIPTION" value=" 6.35mm (0.250, 1/4) - Headphone Phone Jack Mono Connector Solder "/>
+<attribute name="MF" value="Switchcraft"/>
+<attribute name="MP" value="RN111PC"/>
+<attribute name="PACKAGE" value="None"/>
+<attribute name="PRICE" value="None"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/RN111PC/?ref=eda"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="SP-3533-02">
+<packages>
+<package name="CUI_SP-3533-02">
+<wire x1="-3.2" y1="-2.5" x2="-3.2" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="-1.6" x2="-3.2" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="1.6" x2="-3.2" y2="2.5" width="0.127" layer="51"/>
+<wire x1="4.8" y1="2" x2="4.8" y2="-2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="2.5" x2="0.8" y2="2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="2.5" x2="0.8" y2="2" width="0.127" layer="51"/>
+<wire x1="0.8" y1="2" x2="4.8" y2="2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="-2.5" x2="0.8" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-2" x2="0.8" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-2" x2="4.8" y2="-2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="2.5" x2="0.8" y2="2.5" width="0.127" layer="21"/>
+<wire x1="0.8" y1="2.5" x2="0.8" y2="2" width="0.127" layer="21"/>
+<wire x1="0.8" y1="2" x2="4.8" y2="2" width="0.127" layer="21"/>
+<wire x1="4.8" y1="2" x2="4.8" y2="-2" width="0.127" layer="21"/>
+<wire x1="4.8" y1="-2" x2="0.8" y2="-2" width="0.127" layer="21"/>
+<wire x1="0.8" y1="-2" x2="0.8" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="0.8" y1="-2.5" x2="-3.2" y2="-2.5" width="0.127" layer="21"/>
+<circle x="2.8" y="3.1" radius="0.1" width="0.2" layer="21"/>
+<circle x="2.8" y="3.1" radius="0.1" width="0.2" layer="51"/>
+<wire x1="-3.2" y1="1.6" x2="-17" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="1.6" x2="-17" y2="1" width="0.127" layer="51"/>
+<wire x1="-17" y1="1" x2="-17" y2="-1" width="0.127" layer="51"/>
+<wire x1="-17" y1="-1" x2="-17" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="-1.6" x2="-3.2" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="1" x2="-20" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-20" y1="1.6" x2="-20" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-20" y1="-1.6" x2="-17" y2="-1" width="0.127" layer="51"/>
+<wire x1="-20" y1="1.6" x2="-21.8" y2="0.5" width="0.127" layer="51"/>
+<wire x1="-21.8" y1="0.5" x2="-21.8" y2="-0.5" width="0.127" layer="51"/>
+<wire x1="-21.8" y1="-0.5" x2="-20" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-3.45" y1="2.75" x2="5.05" y2="2.75" width="0.05" layer="39"/>
+<wire x1="5.05" y1="2.75" x2="5.05" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="-22.05" y1="-1.85" x2="-22.05" y2="1.85" width="0.05" layer="39"/>
+<wire x1="-22.05" y1="1.85" x2="-3.45" y2="1.85" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="1.85" x2="-3.45" y2="2.75" width="0.05" layer="39"/>
+<wire x1="5.05" y1="-2.75" x2="-3.45" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="-2.75" x2="-3.45" y2="-1.85" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="-1.85" x2="-22.05" y2="-1.85" width="0.05" layer="39"/>
+<text x="-4.1" y="3" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.1" y="-3" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
+<wire x1="-0.25" y1="0.75" x2="0.25" y2="0.75" width="0" layer="46"/>
+<wire x1="0.25" y1="0.75" x2="0.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="0.25" y1="-0.75" x2="-0.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="-0.25" y1="-0.75" x2="-0.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-2.75" y1="0.75" x2="-2.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-2.25" y1="0.75" x2="-2.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="-2.25" y1="-0.75" x2="-2.75" y2="-0.75" width="0" layer="46"/>
+<wire x1="-2.75" y1="-0.75" x2="-2.75" y2="0.75" width="0" layer="46"/>
+<wire x1="2.25" y1="0.75" x2="2.75" y2="0.75" width="0" layer="46"/>
+<wire x1="2.75" y1="0.75" x2="2.75" y2="-0.75" width="0" layer="46"/>
+<wire x1="2.75" y1="-0.75" x2="2.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="2.25" y1="-0.75" x2="2.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-3.2" y1="1.35" x2="-3.2" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="-2.5" x2="-3.2" y2="-1.35" width="0.127" layer="21"/>
+<pad name="3" x="-2.5" y="0" drill="0.5" shape="long" rot="R90"/>
+<pad name="2" x="0" y="0" drill="0.5" shape="long" rot="R90"/>
+<pad name="1" x="2.5" y="0" drill="0.5" shape="long" rot="R90"/>
+</package>
+</packages>
+<symbols>
+<symbol name="SP-3533-02">
+<text x="-10.16" y="5.715" size="1.778" layer="95">&gt;NAME</text>
+<text x="-10.16" y="-5.715" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
+<wire x1="0" y1="5.08" x2="0" y2="-5.08" width="0.254" layer="94"/>
+<wire x1="0" y1="-5.08" x2="-10.16" y2="-5.08" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-5.08" x2="-10.16" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-2.54" x2="-10.16" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="2.54" x2="-10.16" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="5.08" x2="0" y2="5.08" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="2.54" x2="-22.86" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-22.86" y1="2.54" x2="-30.48" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-30.48" y1="2.54" x2="-35.56" y2="2.54" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-2.54" x2="-22.86" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-22.86" y1="-2.54" x2="-30.48" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-30.48" y1="-2.54" x2="-35.56" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-35.56" y1="2.54" x2="-35.56" y2="-2.54" width="0.254" layer="94" curve="180"/>
+<wire x1="-30.48" y1="2.54" x2="-30.48" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-22.86" y1="2.54" x2="-22.86" y2="-2.54" width="0.254" layer="94"/>
+<text x="-34.798" y="-0.635" size="1.778" layer="97">T</text>
+<text x="-27.178" y="-0.635" size="1.778" layer="97">R</text>
+<text x="-17.78" y="-0.635" size="1.778" layer="97">S</text>
+<pin name="T" x="2.54" y="2.54" length="short" direction="pas" rot="R180"/>
+<pin name="S" x="2.54" y="-2.54" length="short" direction="pas" rot="R180"/>
+<pin name="R" x="2.54" y="0" length="short" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="SP-3533-02" prefix="J">
+<description> &lt;a href="https://pricing.snapeda.com/parts/SP-3533-02/CUI%20Devices/view-part?ref=eda"&gt;Check prices&lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="SP-3533-02" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="CUI_SP-3533-02">
+<connects>
+<connect gate="G$1" pin="R" pad="2"/>
+<connect gate="G$1" pin="S" pad="3"/>
+<connect gate="G$1" pin="T" pad="1"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="AVAILABILITY" value="Warning"/>
+<attribute name="CUI_PURCHASE_URL" value="https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/audio-plugs/sp-3533-02?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM"/>
+<attribute name="DESCRIPTION" value="3.5 mm, Stereo, PCB Mount, Through Hole, Audio Plug Connector"/>
+<attribute name="MF" value="CUI Devices"/>
+<attribute name="MP" value="SP-3533-02"/>
+<attribute name="PACKAGE" value="None"/>
+<attribute name="PRICE" value="None"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SP-3533-02/?ref=eda"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2794,6 +3008,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY42" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="5V" device=""/>
 <part name="SUPPLY43" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="5V" device=""/>
 <part name="SUPPLY44" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="5V" device=""/>
+<part name="J1" library="RN111PC" deviceset="RN111PC" device=""/>
+<part name="J2" library="SP-3533-02" deviceset="SP-3533-02" device=""/>
+<part name="SUPPLY4" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
+<part name="SUPPLY45" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3640,6 +3858,20 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="TP10" gate="G$1" x="185.42" y="345.44" smashed="yes" rot="R270"/>
 <instance part="TP11" gate="G$1" x="172.72" y="238.76" smashed="yes" rot="R270"/>
 <instance part="TP12" gate="G$1" x="248.92" y="309.88" smashed="yes" rot="R270"/>
+<instance part="J1" gate="G$1" x="396.24" y="259.08" smashed="yes">
+<attribute name="NAME" x="391.16" y="266.7" size="1.778" layer="95"/>
+<attribute name="VALUE" x="391.16" y="251.46" size="1.778" layer="96" align="top-left"/>
+</instance>
+<instance part="J2" gate="G$1" x="406.4" y="289.56" smashed="yes">
+<attribute name="NAME" x="396.24" y="295.275" size="1.778" layer="95"/>
+<attribute name="VALUE" x="396.24" y="283.845" size="1.778" layer="96" align="top-left"/>
+</instance>
+<instance part="SUPPLY4" gate="GND" x="416.56" y="241.3" smashed="yes">
+<attribute name="VALUE" x="414.655" y="238.125" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY45" gate="GND" x="416.56" y="276.86" smashed="yes">
+<attribute name="VALUE" x="414.655" y="273.685" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -3807,6 +4039,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="SUPPLY24" gate="GND" pin="GND"/>
 <wire x1="391.16" y1="165.1" x2="381" y2="165.1" width="0.1524" layer="91"/>
 <wire x1="381" y1="165.1" x2="381" y2="149.86" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="J1" gate="G$1" pin="S"/>
+<wire x1="406.4" y1="254" x2="416.56" y2="254" width="0.1524" layer="91"/>
+<wire x1="416.56" y1="254" x2="416.56" y2="243.84" width="0.1524" layer="91"/>
+<pinref part="SUPPLY4" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="J2" gate="G$1" pin="S"/>
+<wire x1="408.94" y1="287.02" x2="416.56" y2="287.02" width="0.1524" layer="91"/>
+<wire x1="416.56" y1="287.02" x2="416.56" y2="279.4" width="0.1524" layer="91"/>
+<pinref part="SUPPLY45" gate="GND" pin="GND"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -4278,6 +4522,25 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="TP12" gate="G$1" pin="TP"/>
 <wire x1="248.92" y1="307.34" x2="269.24" y2="307.34" width="0.1524" layer="91"/>
 <junction x="248.92" y="307.34"/>
+</segment>
+</net>
+<net name="AUDIO_IN" class="0">
+<segment>
+<pinref part="J1" gate="G$1" pin="T"/>
+<wire x1="406.4" y1="259.08" x2="416.56" y2="259.08" width="0.1524" layer="91"/>
+<label x="416.56" y="259.08" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="MUX6_OUT" class="0">
+<segment>
+<pinref part="J2" gate="G$1" pin="R"/>
+<wire x1="408.94" y1="289.56" x2="421.64" y2="289.56" width="0.1524" layer="91"/>
+<wire x1="421.64" y1="289.56" x2="421.64" y2="292.1" width="0.1524" layer="91"/>
+<pinref part="J2" gate="G$1" pin="T"/>
+<wire x1="408.94" y1="292.1" x2="421.64" y2="292.1" width="0.1524" layer="91"/>
+<wire x1="421.64" y1="292.1" x2="434.34" y2="292.1" width="0.1524" layer="91"/>
+<junction x="421.64" y="292.1"/>
+<label x="434.34" y="292.1" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
