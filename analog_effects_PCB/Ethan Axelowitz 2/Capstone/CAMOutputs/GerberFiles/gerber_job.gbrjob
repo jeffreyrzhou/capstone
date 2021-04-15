@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-03-30T03:13:25Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "capstone v18"
+        },
+        "Owner": "Ethan Axelowitz <axelowitz.e@husky.neu.edu>",
+        "Size": {
+            "X": 100,
+            "Y": 80
+        }
+    }
+}

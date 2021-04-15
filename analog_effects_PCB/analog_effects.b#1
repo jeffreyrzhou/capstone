@@ -20,8 +20,8 @@
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
@@ -36,13 +36,13 @@
 <layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
@@ -65,59 +65,59 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="99" name="SpiceOrder" color="7" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Patch_Top" color="12" fill="4" visible="yes" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="tMap" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="104" name="Name" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="tPlate" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="106" name="bPlate" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="107" name="Crop" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="108" name="tplace-old" color="10" fill="1" visible="yes" active="yes"/>
-<layer number="109" name="ref-old" color="11" fill="1" visible="yes" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="113" name="IDFDebug" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
+<layer number="103" name="tMap" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="16" fill="1" visible="no" active="yes"/>
+<layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
+<layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
+<layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
+<layer number="108" name="tplace-old" color="10" fill="1" visible="no" active="yes"/>
+<layer number="109" name="ref-old" color="11" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="113" name="IDFDebug" color="4" fill="1" visible="no" active="yes"/>
 <layer number="114" name="Badge_Outline" color="7" fill="1" visible="no" active="yes"/>
 <layer number="115" name="ReferenceISLANDS" color="7" fill="1" visible="no" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
 <layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="150" name="Notes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="153" name="FabDoc1" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="154" name="FabDoc2" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="155" name="FabDoc3" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="201" name="201bmp" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="202" name="202bmp" color="3" fill="10" visible="yes" active="yes"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="yes" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="yes" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="yes" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="yes" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="yes" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="no" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="153" name="FabDoc1" color="7" fill="1" visible="no" active="yes"/>
+<layer number="154" name="FabDoc2" color="7" fill="1" visible="no" active="yes"/>
+<layer number="155" name="FabDoc3" color="7" fill="1" visible="no" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
+<layer number="201" name="201bmp" color="2" fill="10" visible="no" active="yes"/>
+<layer number="202" name="202bmp" color="3" fill="10" visible="no" active="yes"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
+<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -126,19 +126,19 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="231" name="231bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="231" name="231bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
 <plain>
@@ -1359,6 +1359,120 @@
 </package>
 </packages>
 </library>
+<library name="RN111PC">
+<packages>
+<package name="SWITCHCRAFT_RN111PC">
+<wire x1="-19.69" y1="3.75" x2="-15.626" y2="7.94" width="0.127" layer="51"/>
+<wire x1="-15.626" y1="7.94" x2="5.68" y2="7.94" width="0.127" layer="51"/>
+<wire x1="5.68" y1="7.94" x2="5.68" y2="4.7625" width="0.127" layer="51"/>
+<wire x1="5.68" y1="4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="5.68" y1="-4.7625" x2="5.68" y2="-7.94" width="0.127" layer="51"/>
+<wire x1="5.68" y1="-7.94" x2="-15.626" y2="-7.94" width="0.127" layer="51"/>
+<wire x1="-15.626" y1="-7.94" x2="-19.69" y2="-3.75" width="0.127" layer="51"/>
+<wire x1="-19.69" y1="-3.75" x2="-19.69" y2="3.75" width="0.127" layer="51"/>
+<wire x1="5.68" y1="4.7625" x2="12.7" y2="4.7625" width="0.127" layer="51"/>
+<wire x1="12.7" y1="4.7625" x2="12.7" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="12.7" y1="-4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="51"/>
+<wire x1="-19.94" y1="3.875" x2="-19.94" y2="-3.875" width="0.05" layer="39"/>
+<wire x1="-19.94" y1="-3.875" x2="-15.751" y2="-8.19" width="0.05" layer="39"/>
+<wire x1="-15.751" y1="-8.19" x2="5.93" y2="-8.19" width="0.05" layer="39"/>
+<wire x1="5.93" y1="-8.19" x2="5.93" y2="-5.0125" width="0.05" layer="39"/>
+<wire x1="5.93" y1="-5.0125" x2="12.95" y2="-5.0125" width="0.05" layer="39"/>
+<wire x1="12.95" y1="-5.0125" x2="12.95" y2="5.0125" width="0.05" layer="39"/>
+<wire x1="12.95" y1="5.0125" x2="5.93" y2="5.0125" width="0.05" layer="39"/>
+<wire x1="5.93" y1="5.0125" x2="5.93" y2="8.19" width="0.05" layer="39"/>
+<wire x1="5.93" y1="8.19" x2="-15.751" y2="8.19" width="0.05" layer="39"/>
+<wire x1="-15.751" y1="8.19" x2="-19.94" y2="3.875" width="0.05" layer="39"/>
+<text x="-15.6" y="8.4" size="1.778" layer="25">&gt;NAME</text>
+<text x="-15.6" y="-10.2" size="1.778" layer="27">&gt;VALUE</text>
+<wire x1="-19.69" y1="3.75" x2="-15.626" y2="7.94" width="0.127" layer="21"/>
+<wire x1="-15.626" y1="7.94" x2="5.68" y2="7.94" width="0.127" layer="21"/>
+<wire x1="5.68" y1="7.94" x2="5.68" y2="4.7625" width="0.127" layer="21"/>
+<wire x1="5.68" y1="4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="21"/>
+<wire x1="5.68" y1="-4.7625" x2="5.68" y2="-7.94" width="0.127" layer="21"/>
+<wire x1="5.68" y1="-7.94" x2="-15.626" y2="-7.94" width="0.127" layer="21"/>
+<wire x1="-15.626" y1="-7.94" x2="-19.69" y2="-3.75" width="0.127" layer="21"/>
+<wire x1="-19.69" y1="-3.75" x2="-19.69" y2="3.75" width="0.127" layer="21"/>
+<wire x1="5.68" y1="4.7625" x2="12.7" y2="4.7625" width="0.127" layer="21"/>
+<wire x1="12.7" y1="4.7625" x2="12.7" y2="-4.7625" width="0.127" layer="21"/>
+<wire x1="12.7" y1="-4.7625" x2="5.68" y2="-4.7625" width="0.127" layer="21"/>
+<circle x="-2.54" y="3.81" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-2.54" y="-3.81" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-15.24" y="0" radius="0.7995" width="1.599" layer="29"/>
+<circle x="-15.24" y="0" radius="0.7995" width="1.599" layer="30"/>
+<circle x="-2.54" y="3.81" radius="0.7995" width="1.599" layer="30"/>
+<circle x="-2.54" y="-3.81" radius="0.7995" width="1.599" layer="30"/>
+<pad name="S" x="0" y="0" drill="1.46" diameter="2.19"/>
+<pad name="T" x="-12.7" y="6.35" drill="1.48" diameter="2.22"/>
+<hole x="-15.24" y="0" drill="2.69"/>
+<hole x="-2.54" y="3.81" drill="2.69"/>
+<hole x="-2.54" y="-3.81" drill="2.69"/>
+</package>
+</packages>
+</library>
+<library name="SP-3533-02">
+<packages>
+<package name="CUI_SP-3533-02">
+<wire x1="-3.2" y1="-2.5" x2="-3.2" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="-1.6" x2="-3.2" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="1.6" x2="-3.2" y2="2.5" width="0.127" layer="51"/>
+<wire x1="4.8" y1="2" x2="4.8" y2="-2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="2.5" x2="0.8" y2="2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="2.5" x2="0.8" y2="2" width="0.127" layer="51"/>
+<wire x1="0.8" y1="2" x2="4.8" y2="2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="-2.5" x2="0.8" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-2" x2="0.8" y2="-2.5" width="0.127" layer="51"/>
+<wire x1="0.8" y1="-2" x2="4.8" y2="-2" width="0.127" layer="51"/>
+<wire x1="-3.2" y1="2.5" x2="0.8" y2="2.5" width="0.127" layer="21"/>
+<wire x1="0.8" y1="2.5" x2="0.8" y2="2" width="0.127" layer="21"/>
+<wire x1="0.8" y1="2" x2="4.8" y2="2" width="0.127" layer="21"/>
+<wire x1="4.8" y1="2" x2="4.8" y2="-2" width="0.127" layer="21"/>
+<wire x1="4.8" y1="-2" x2="0.8" y2="-2" width="0.127" layer="21"/>
+<wire x1="0.8" y1="-2" x2="0.8" y2="-2.5" width="0.127" layer="21"/>
+<wire x1="0.8" y1="-2.5" x2="-3.2" y2="-2.5" width="0.127" layer="21"/>
+<circle x="2.8" y="3.1" radius="0.1" width="0.2" layer="21"/>
+<circle x="2.8" y="3.1" radius="0.1" width="0.2" layer="51"/>
+<wire x1="-3.2" y1="1.6" x2="-17" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="1.6" x2="-17" y2="1" width="0.127" layer="51"/>
+<wire x1="-17" y1="1" x2="-17" y2="-1" width="0.127" layer="51"/>
+<wire x1="-17" y1="-1" x2="-17" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="-1.6" x2="-3.2" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-17" y1="1" x2="-20" y2="1.6" width="0.127" layer="51"/>
+<wire x1="-20" y1="1.6" x2="-20" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-20" y1="-1.6" x2="-17" y2="-1" width="0.127" layer="51"/>
+<wire x1="-20" y1="1.6" x2="-21.8" y2="0.5" width="0.127" layer="51"/>
+<wire x1="-21.8" y1="0.5" x2="-21.8" y2="-0.5" width="0.127" layer="51"/>
+<wire x1="-21.8" y1="-0.5" x2="-20" y2="-1.6" width="0.127" layer="51"/>
+<wire x1="-3.45" y1="2.75" x2="5.05" y2="2.75" width="0.05" layer="39"/>
+<wire x1="5.05" y1="2.75" x2="5.05" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="-22.05" y1="-1.85" x2="-22.05" y2="1.85" width="0.05" layer="39"/>
+<wire x1="-22.05" y1="1.85" x2="-3.45" y2="1.85" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="1.85" x2="-3.45" y2="2.75" width="0.05" layer="39"/>
+<wire x1="5.05" y1="-2.75" x2="-3.45" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="-2.75" x2="-3.45" y2="-1.85" width="0.05" layer="39"/>
+<wire x1="-3.45" y1="-1.85" x2="-22.05" y2="-1.85" width="0.05" layer="39"/>
+<text x="-4.1" y="3" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.1" y="-3" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
+<wire x1="-0.25" y1="0.75" x2="0.25" y2="0.75" width="0" layer="46"/>
+<wire x1="0.25" y1="0.75" x2="0.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="0.25" y1="-0.75" x2="-0.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="-0.25" y1="-0.75" x2="-0.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-2.75" y1="0.75" x2="-2.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-2.25" y1="0.75" x2="-2.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="-2.25" y1="-0.75" x2="-2.75" y2="-0.75" width="0" layer="46"/>
+<wire x1="-2.75" y1="-0.75" x2="-2.75" y2="0.75" width="0" layer="46"/>
+<wire x1="2.25" y1="0.75" x2="2.75" y2="0.75" width="0" layer="46"/>
+<wire x1="2.75" y1="0.75" x2="2.75" y2="-0.75" width="0" layer="46"/>
+<wire x1="2.75" y1="-0.75" x2="2.25" y2="-0.75" width="0" layer="46"/>
+<wire x1="2.25" y1="-0.75" x2="2.25" y2="0.75" width="0" layer="46"/>
+<wire x1="-3.2" y1="1.35" x2="-3.2" y2="2.5" width="0.127" layer="21"/>
+<wire x1="-3.2" y1="-2.5" x2="-3.2" y2="-1.35" width="0.127" layer="21"/>
+<pad name="3" x="-2.5" y="0" drill="0.5" shape="long" rot="R90"/>
+<pad name="2" x="0" y="0" drill="0.5" shape="long" rot="R90"/>
+<pad name="1" x="2.5" y="0" drill="0.5" shape="long" rot="R90"/>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1368,7 +1482,7 @@
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="default">
+<designrules name="default *">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
@@ -1383,7 +1497,7 @@ a wide range of applications. Your particular design
 may have different requirements, so please make the
 necessary adjustments and save your customized
 design rules under a new name.</description>
-<param name="layerSetup" value="(1*16)"/>
+<param name="layerSetup" value="(1+2*15+16)"/>
 <param name="mtCopper" value="0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm"/>
 <param name="mtIsolate" value="1.5mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm"/>
 <param name="mdWireWire" value="6mil"/>
@@ -1808,16 +1922,16 @@ design rules under a new name.</description>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/AD5241BRZ1M/?ref=eda" x="-82.55" y="5.08" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="-86.0074" y="-2.546609375" size="2.084609375" layer="27" ratio="10" rot="SR0"/>
 </element>
-<element name="J3" library="SAMTEC-SSQ-120-01-X-D" package="SAMTEC-SSQ-120-01-X-D" value="SAMTEC-SSQ-120-01-X-DJ" x="90.17" y="43.18" smashed="yes" rot="R270">
-<attribute name="AVAILABILITY" value="Bad" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="DESCRIPTION" value=" CONN RCPT 40POS 0.1 GOLD PCB " x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MF" value="Samtec" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MP" value="SSQ-120-01-G-D-LL" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="96.371990625" y="77.385" size="1.905" layer="25" rot="R270"/>
-<attribute name="PACKAGE" value="None" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PRICE" value="None" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SSQ-120-01-G-D-LL/?ref=eda" x="90.17" y="43.18" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="97.09" y="43.18" size="0.635" layer="27" rot="R270" align="bottom-center"/>
+<element name="J3" library="SAMTEC-SSQ-120-01-X-D" package="SAMTEC-SSQ-120-01-X-D" value="SAMTEC-SSQ-120-01-X-DJ" x="91.44" y="50.8" smashed="yes" rot="R270">
+<attribute name="AVAILABILITY" value="Bad" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DESCRIPTION" value=" CONN RCPT 40POS 0.1 GOLD PCB " x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MF" value="Samtec" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MP" value="SSQ-120-01-G-D-LL" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="97.641990625" y="85.005" size="1.905" layer="25" rot="R270"/>
+<attribute name="PACKAGE" value="None" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE" value="None" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SSQ-120-01-G-D-LL/?ref=eda" x="91.44" y="50.8" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="98.36" y="50.8" size="0.635" layer="27" rot="R270" align="bottom-center"/>
 </element>
 <element name="U4" library="AD5241BRZ100" package="SOIC127P600X175-14N" value="AD5241BRZ100" x="-120.65" y="-64.77" smashed="yes">
 <attribute name="AVAILABILITY" value="Good" x="-120.65" y="-64.77" size="1.778" layer="27" display="off"/>
@@ -2085,139 +2199,139 @@ design rules under a new name.</description>
 <attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-299.72" size="1.778" layer="27" display="off"/>
 <attribute name="PRICE" value="None" x="-134.62" y="-299.72" size="1.778" layer="27" display="off"/>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-299.72" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.05" y="-300.54" size="0.5" layer="27" align="top-left"/>
+<attribute name="VALUE" x="-133.51" y="-299.27" size="0.5" layer="27" align="top-left"/>
 </element>
-<element name="C10" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-303.53" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-302.73" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-303.53" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-304.33" size="0.5" layer="27" align="top-left"/>
+<element name="C10" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="38.1" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="37.3" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="38.1" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="38.9" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C11" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-307.34" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-306.54" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-307.34" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-308.14" size="0.5" layer="27" align="top-left"/>
+<element name="C11" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="41.91" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="41.11" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="41.91" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="42.71" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C12" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-311.15" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-310.35" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-311.15" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-311.95" size="0.5" layer="27" align="top-left"/>
+<element name="C12" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="45.72" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="44.92" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="45.72" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="46.52" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C13" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-314.96" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-314.16" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-314.96" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-315.76" size="0.5" layer="27" align="top-left"/>
+<element name="C13" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="49.53" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="48.73" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="49.53" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="50.33" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C14" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-318.77" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-317.97" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-318.77" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-319.57" size="0.5" layer="27" align="top-left"/>
+<element name="C14" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="53.34" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="52.54" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="53.34" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="54.14" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C15" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-322.58" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-321.78" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-322.58" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-323.38" size="0.5" layer="27" align="top-left"/>
+<element name="C15" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="57.15" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="56.35" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="57.15" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="57.95" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C16" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-326.39" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-325.59" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-326.39" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-327.19" size="0.5" layer="27" align="top-left"/>
+<element name="C16" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="60.96" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="60.16" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="60.96" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="61.76" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C17" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-330.2" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-329.4" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-330.2" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-331" size="0.5" layer="27" align="top-left"/>
+<element name="C17" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="64.77" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="63.97" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="64.77" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="65.57" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C18" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-334.01" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-333.21" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-334.01" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-334.81" size="0.5" layer="27" align="top-left"/>
+<element name="C18" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="68.58" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="67.78" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="68.58" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="69.38" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C19" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-337.82" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-337.02" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-337.82" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-338.62" size="0.5" layer="27" align="top-left"/>
+<element name="C19" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="72.39" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="71.59" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="72.39" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="73.19" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C20" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-341.63" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-340.83" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-341.63" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-342.43" size="0.5" layer="27" align="top-left"/>
+<element name="C20" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="76.2" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="75.4" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="76.2" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="77" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
-<element name="C21" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="-134.62" y="-345.44" smashed="yes">
-<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="MF" value="Murata" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="MP" value="GCM188R91E104KA37J" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-136.08" y="-344.64" size="0.5" layer="25"/>
-<attribute name="PACKAGE" value="1608 Murata" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE" value="None" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="-134.62" y="-345.44" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-136.08" y="-346.24" size="0.5" layer="27" align="top-left"/>
+<element name="C21" library="GCM188R91E104KA37J" package="CAPC1608X90N" value="GCM188R91E104KA37J" x="80.01" y="73.66" smashed="yes" rot="R90">
+<attribute name="AVAILABILITY" value="Warning" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" SMD capacitor X8R(EIA) with capacitance 0.10uF Tol.10%. Rated voltage 25Vdc 150C " x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Murata" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="GCM188R91E104KA37J" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="79.21" y="72.2" size="0.5" layer="25" rot="R90"/>
+<attribute name="PACKAGE" value="1608 Murata" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PRICE" value="None" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/GCM188R91E104KA37J/?ref=eda" x="80.01" y="73.66" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="80.81" y="72.2" size="0.5" layer="27" rot="R90" align="top-left"/>
 </element>
 <element name="TP7" library="5015" package="KEYSTONE_5015" value="5015" x="-134.62" y="-350.52" smashed="yes">
 <attribute name="DESCRIPTION" value=" SMT Test Point- Micro Miniature-1000 pc Reels " x="-134.62" y="-350.52" size="1.778" layer="27" display="off"/>
@@ -2359,6 +2473,161 @@ design rules under a new name.</description>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/5015/?ref=eda" x="-134.62" y="-464.82" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="-136.62248125" y="-467.52335" size="1.27156875" layer="27"/>
 </element>
+<element name="J1" library="RN111PC" package="SWITCHCRAFT_RN111PC" value="RN111PC" x="97.79" y="11.43" smashed="yes">
+<attribute name="AVAILABILITY" value="Good" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" 6.35mm (0.250, 1/4) - Headphone Phone Jack Mono Connector Solder " x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Switchcraft" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="RN111PC" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="82.19" y="19.83" size="1.778" layer="25"/>
+<attribute name="PACKAGE" value="None" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/RN111PC/?ref=eda" x="97.79" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="82.19" y="1.23" size="1.778" layer="27"/>
+</element>
+<element name="J2" library="SP-3533-02" package="CUI_SP-3533-02" value="SP-3533-02" x="6.35" y="11.43" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="CUI_PURCHASE_URL" value="https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/audio-plugs/sp-3533-02?utm_source=snapeda.com&amp;utm_medium=referral&amp;utm_campaign=snapedaBOM" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value="3.5 mm, Stereo, PCB Mount, Through Hole, Audio Plug Connector" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="CUI Devices" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="SP-3533-02" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="2.25" y="14.43" size="1.27" layer="25"/>
+<attribute name="PACKAGE" value="None" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/SP-3533-02/?ref=eda" x="6.35" y="11.43" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="2.25" y="8.43" size="1.27" layer="27" align="top-left"/>
+</element>
+<element name="R10" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-502.92" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-502.1" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-502.92" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-503.74" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R20" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-506.73" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-505.91" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-506.73" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-507.55" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R21" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-510.54" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-509.72" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-510.54" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-511.36" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R22" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-514.35" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-513.53" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-514.35" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-515.17" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R23" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-518.16" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-517.34" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-518.16" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-518.98" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R24" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-521.97" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-521.15" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-521.97" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-522.79" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R25" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-525.78" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-524.96" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-525.78" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-526.6" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R26" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-529.59" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-528.77" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-529.59" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-530.41" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R27" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-533.4" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-532.58" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-533.4" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-534.22" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R28" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-537.21" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-536.39" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-537.21" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-538.03" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R29" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-541.02" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-540.2" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-541.02" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-541.84" size="0.5" layer="27" align="top-left"/>
+</element>
+<element name="R30" library="MCT06030D1002BP100" package="RESC1508X55N" value="MCT06030D1002BP100" x="-134.62" y="-544.83" smashed="yes">
+<attribute name="AVAILABILITY" value="Warning" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="DESCRIPTION" value=" Res Thin Film 0603 10K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Molded SMD Automotive Medical Paper T/R " x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="MF" value="Vishay" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="MP" value="MCT06030D1002BP100" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-136.05" y="-544.01" size="0.5" layer="25"/>
+<attribute name="PACKAGE" value="1508 Vishay" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE" value="None" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/MCT06030D1002BP100/?ref=eda" x="-134.62" y="-544.83" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="-136.05" y="-545.65" size="0.5" layer="27" align="top-left"/>
+</element>
 </elements>
 <signals>
 <signal name="N$1">
@@ -2436,18 +2705,20 @@ design rules under a new name.</description>
 <contactref element="C19" pad="1"/>
 <contactref element="C20" pad="1"/>
 <contactref element="C21" pad="1"/>
-<wire x1="-135.39" y1="-341.63" x2="-135.39" y2="-345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-337.82" x2="-135.39" y2="-341.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-334.01" x2="-135.39" y2="-337.82" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-330.2" x2="-135.39" y2="-334.01" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-326.39" x2="-135.39" y2="-330.2" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-322.58" x2="-135.39" y2="-326.39" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-318.77" x2="-135.39" y2="-322.58" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-314.96" x2="-135.39" y2="-318.77" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-311.15" x2="-135.39" y2="-314.96" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-307.34" x2="-135.39" y2="-311.15" width="0" layer="19" extent="1-1"/>
-<wire x1="-135.39" y1="-303.53" x2="-135.39" y2="-307.34" width="0" layer="19" extent="1-1"/>
-<wire x1="-130.9878" y1="-260.35" x2="-135.39" y2="-303.53" width="0" layer="19" extent="1-1"/>
+<contactref element="J1" pad="S"/>
+<contactref element="J2" pad="3"/>
+<wire x1="76.2" y1="72.89" x2="80.01" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="72.39" y1="72.89" x2="76.2" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="72.89" x2="72.39" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="64.77" y1="72.89" x2="68.58" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="72.89" x2="64.77" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="57.15" y1="72.89" x2="60.96" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="53.34" y1="72.89" x2="57.15" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="49.53" y1="72.89" x2="53.34" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="72.89" x2="49.53" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="41.91" y1="72.89" x2="45.72" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="72.89" x2="41.91" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="-130.9878" y1="-260.35" x2="38.1" y2="72.89" width="0" layer="19" extent="1-1"/>
 <wire x1="-130.9878" y1="-259.08" x2="-130.9878" y2="-260.35" width="0" layer="19" extent="1-1"/>
 <wire x1="-130.9878" y1="-257.81" x2="-130.9878" y2="-259.08" width="0" layer="19" extent="1-1"/>
 <wire x1="-122.679" y1="-194.31" x2="-130.9878" y2="-257.81" width="0" layer="19" extent="1-1"/>
@@ -2473,7 +2744,9 @@ design rules under a new name.</description>
 <wire x1="57.015" y1="8.14" x2="48.125" y2="8.14" width="0" layer="19" extent="1-1"/>
 <wire x1="65.905" y1="8.14" x2="57.015" y2="8.14" width="0" layer="19" extent="1-1"/>
 <wire x1="74.795" y1="8.14" x2="65.905" y2="8.14" width="0" layer="19" extent="1-1"/>
-<wire x1="91.44" y1="19.05" x2="74.795" y2="8.14" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="26.67" x2="74.795" y2="8.14" width="0" layer="19" extent="1-1"/>
+<wire x1="97.79" y1="11.43" x2="80.01" y2="72.89" width="0" layer="19" extent="1-1"/>
+<wire x1="3.85" y1="11.43" x2="97.79" y2="11.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
 <contactref element="C3" pad="1"/>
@@ -2576,12 +2849,16 @@ design rules under a new name.</description>
 <signal name="MUX1_S1">
 <contactref element="U10" pad="6"/>
 <contactref element="J3" pad="7"/>
-<wire x1="77.605" y1="8.64" x2="91.44" y2="59.69" width="0" layer="19" extent="1-1"/>
+<contactref element="R10" pad="1"/>
+<wire x1="77.605" y1="8.64" x2="92.71" y2="67.31" width="0" layer="19" extent="1-1"/>
+<wire x1="-135.391" y1="-502.92" x2="77.605" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX1_S2">
 <contactref element="U10" pad="5"/>
 <contactref element="J3" pad="29"/>
-<wire x1="77.605" y1="8.14" x2="91.44" y2="31.75" width="0" layer="19" extent="1-1"/>
+<contactref element="R20" pad="1"/>
+<wire x1="77.605" y1="8.14" x2="-135.391" y2="-506.73" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="39.37" x2="77.605" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX1_OUT">
 <contactref element="U10" pad="7"/>
@@ -2624,12 +2901,16 @@ design rules under a new name.</description>
 <signal name="MUX2_S1">
 <contactref element="U9" pad="6"/>
 <contactref element="J3" pad="31"/>
-<wire x1="68.715" y1="8.64" x2="91.44" y2="29.21" width="0" layer="19" extent="1-1"/>
+<contactref element="R21" pad="1"/>
+<wire x1="68.715" y1="8.64" x2="-135.391" y2="-510.54" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="36.83" x2="68.715" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX2_S2">
 <contactref element="U9" pad="5"/>
 <contactref element="J3" pad="26"/>
-<wire x1="68.715" y1="8.14" x2="88.9" y2="36.83" width="0" layer="19" extent="1-1"/>
+<contactref element="R22" pad="1"/>
+<wire x1="68.715" y1="8.14" x2="-135.391" y2="-514.35" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="44.45" x2="68.715" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX2_OUT">
 <contactref element="U9" pad="7"/>
@@ -2645,12 +2926,16 @@ design rules under a new name.</description>
 <signal name="MUX3_S1">
 <contactref element="U11" pad="6"/>
 <contactref element="J3" pad="24"/>
-<wire x1="59.825" y1="8.64" x2="88.9" y2="39.37" width="0" layer="19" extent="1-1"/>
+<contactref element="R23" pad="1"/>
+<wire x1="59.825" y1="8.64" x2="-135.391" y2="-518.16" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="46.99" x2="59.825" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX3_S2">
 <contactref element="U11" pad="5"/>
 <contactref element="J3" pad="21"/>
-<wire x1="59.825" y1="8.14" x2="91.44" y2="41.91" width="0" layer="19" extent="1-1"/>
+<contactref element="R24" pad="1"/>
+<wire x1="59.825" y1="8.14" x2="-135.391" y2="-521.97" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="49.53" x2="59.825" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX3_OUT">
 <contactref element="U11" pad="7"/>
@@ -2660,12 +2945,16 @@ design rules under a new name.</description>
 <signal name="MUX4_S1">
 <contactref element="U12" pad="6"/>
 <contactref element="J3" pad="19"/>
-<wire x1="50.935" y1="8.64" x2="91.44" y2="44.45" width="0" layer="19" extent="1-1"/>
+<contactref element="R25" pad="1"/>
+<wire x1="50.935" y1="8.64" x2="-135.391" y2="-525.78" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="52.07" x2="50.935" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX4_S2">
 <contactref element="U12" pad="5"/>
 <contactref element="J3" pad="23"/>
-<wire x1="50.935" y1="8.14" x2="91.44" y2="39.37" width="0" layer="19" extent="1-1"/>
+<contactref element="R26" pad="1"/>
+<wire x1="50.935" y1="8.14" x2="-135.391" y2="-529.59" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="46.99" x2="50.935" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX4_OUT">
 <contactref element="U12" pad="7"/>
@@ -2677,12 +2966,16 @@ design rules under a new name.</description>
 <signal name="MUX5_S1">
 <contactref element="U13" pad="6"/>
 <contactref element="J3" pad="32"/>
-<wire x1="42.045" y1="8.64" x2="88.9" y2="29.21" width="0" layer="19" extent="1-1"/>
+<contactref element="R27" pad="1"/>
+<wire x1="42.045" y1="8.64" x2="-135.391" y2="-533.4" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="36.83" x2="42.045" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX5_S2">
 <contactref element="U13" pad="5"/>
 <contactref element="J3" pad="33"/>
-<wire x1="42.045" y1="8.14" x2="91.44" y2="26.67" width="0" layer="19" extent="1-1"/>
+<contactref element="R28" pad="1"/>
+<wire x1="42.045" y1="8.14" x2="-135.391" y2="-537.21" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="34.29" x2="42.045" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX5_OUT">
 <contactref element="U13" pad="7"/>
@@ -2694,22 +2987,32 @@ design rules under a new name.</description>
 <signal name="MUX6_S1">
 <contactref element="U14" pad="6"/>
 <contactref element="J3" pad="8"/>
-<wire x1="33.155" y1="8.64" x2="88.9" y2="59.69" width="0" layer="19" extent="1-1"/>
+<contactref element="R29" pad="1"/>
+<wire x1="33.155" y1="8.64" x2="-135.391" y2="-541.02" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="67.31" x2="33.155" y2="8.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX6_S2">
 <contactref element="U14" pad="5"/>
 <contactref element="J3" pad="10"/>
-<wire x1="33.155" y1="8.14" x2="88.9" y2="57.15" width="0" layer="19" extent="1-1"/>
+<contactref element="R30" pad="1"/>
+<wire x1="33.155" y1="8.14" x2="-135.391" y2="-544.83" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="64.77" x2="33.155" y2="8.14" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="MUX6_OUT">
 <contactref element="U14" pad="7"/>
 <contactref element="TP15" pad="1"/>
-<wire x1="-134.62" y1="-426.72" x2="33.155" y2="9.14" width="0" layer="19" extent="1-1"/>
+<contactref element="J2" pad="2"/>
+<contactref element="J2" pad="1"/>
+<wire x1="8.85" y1="11.43" x2="6.35" y2="11.43" width="0" layer="19" extent="1-1"/>
+<wire x1="-134.62" y1="-426.72" x2="6.35" y2="11.43" width="0" layer="19" extent="1-1"/>
+<wire x1="33.155" y1="9.14" x2="-134.62" y2="-426.72" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="AUDIO_IN">
 <contactref element="U12" pad="1"/>
 <contactref element="U13" pad="1"/>
 <contactref element="U14" pad="1"/>
+<contactref element="J1" pad="T"/>
+<wire x1="30.345" y1="9.64" x2="85.09" y2="17.78" width="0" layer="19" extent="1-1"/>
 <wire x1="39.235" y1="9.64" x2="30.345" y2="9.64" width="0" layer="19" extent="1-1"/>
 <wire x1="48.125" y1="9.64" x2="39.235" y2="9.64" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -2747,26 +3050,50 @@ design rules under a new name.</description>
 <contactref element="U12" pad="8"/>
 <contactref element="U13" pad="8"/>
 <contactref element="U14" pad="8"/>
-<wire x1="-133.85" y1="-341.63" x2="-133.85" y2="-345.44" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-337.82" x2="-133.85" y2="-341.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-334.01" x2="-133.85" y2="-337.82" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-330.2" x2="-133.85" y2="-334.01" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-326.39" x2="-133.85" y2="-330.2" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-322.58" x2="-133.85" y2="-326.39" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-318.77" x2="-133.85" y2="-322.58" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-314.96" x2="-133.85" y2="-318.77" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-311.15" x2="-133.85" y2="-314.96" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-307.34" x2="-133.85" y2="-311.15" width="0" layer="19" extent="1-1"/>
-<wire x1="-133.85" y1="-303.53" x2="-133.85" y2="-307.34" width="0" layer="19" extent="1-1"/>
-<wire x1="-130.9878" y1="-261.62" x2="-133.85" y2="-303.53" width="0" layer="19" extent="1-1"/>
+<contactref element="R10" pad="2"/>
+<contactref element="R20" pad="2"/>
+<contactref element="R21" pad="2"/>
+<contactref element="R22" pad="2"/>
+<contactref element="R23" pad="2"/>
+<contactref element="R24" pad="2"/>
+<contactref element="R25" pad="2"/>
+<contactref element="R26" pad="2"/>
+<contactref element="R27" pad="2"/>
+<contactref element="R28" pad="2"/>
+<contactref element="R29" pad="2"/>
+<contactref element="R30" pad="2"/>
+<wire x1="76.2" y1="74.43" x2="80.01" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="72.39" y1="74.43" x2="76.2" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="68.58" y1="74.43" x2="72.39" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="64.77" y1="74.43" x2="68.58" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="60.96" y1="74.43" x2="64.77" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="57.15" y1="74.43" x2="60.96" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="53.34" y1="74.43" x2="57.15" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="49.53" y1="74.43" x2="53.34" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="74.43" x2="49.53" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="41.91" y1="74.43" x2="45.72" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="74.43" x2="41.91" y2="74.43" width="0" layer="19" extent="1-1"/>
+<wire x1="-130.9878" y1="-261.62" x2="38.1" y2="74.43" width="0" layer="19" extent="1-1"/>
 <wire x1="-135.7122" y1="-259.08" x2="-130.9878" y2="-261.62" width="0" layer="19" extent="1-1"/>
 <wire x1="-135.7122" y1="-257.81" x2="-135.7122" y2="-259.08" width="0" layer="19" extent="1-1"/>
 <wire x1="-117.1956" y1="-183.8706" x2="-135.7122" y2="-257.81" width="0" layer="19" extent="1-1"/>
 <wire x1="-117.1956" y1="-182.88" x2="-117.1956" y2="-183.8706" width="0" layer="19" extent="1-1"/>
 <wire x1="-121.5644" y1="-182.88" x2="-117.1956" y2="-182.88" width="0" layer="19" extent="1-1"/>
 <wire x1="-121.5644" y1="-182.372" x2="-121.5644" y2="-182.88" width="0" layer="19" extent="1-1"/>
-<wire x1="-134.62" y1="-457.2" x2="-133.85" y2="-345.44" width="0" layer="19" extent="1-1"/>
+<wire x1="-134.62" y1="-457.2" x2="80.01" y2="74.43" width="0" layer="19" extent="1-1"/>
 <wire x1="-134.62" y1="-464.82" x2="-134.62" y2="-457.2" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-502.92" x2="-134.62" y2="-464.82" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-506.73" x2="-133.849" y2="-502.92" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-510.54" x2="-133.849" y2="-506.73" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-514.35" x2="-133.849" y2="-510.54" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-518.16" x2="-133.849" y2="-514.35" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-521.97" x2="-133.849" y2="-518.16" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-525.78" x2="-133.849" y2="-521.97" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-529.59" x2="-133.849" y2="-525.78" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-533.4" x2="-133.849" y2="-529.59" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-537.21" x2="-133.849" y2="-533.4" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-541.02" x2="-133.849" y2="-537.21" width="0" layer="19" extent="1-1"/>
+<wire x1="-133.849" y1="-544.83" x2="-133.849" y2="-541.02" width="0" layer="19" extent="1-1"/>
 <wire x1="-118.1862" y1="-67.31" x2="-121.5644" y2="-182.372" width="0" layer="19" extent="1-1"/>
 <wire x1="-123.1138" y1="-66.04" x2="-118.1862" y2="-67.31" width="0" layer="19" extent="1-1"/>
 <wire x1="-123.1138" y1="-64.77" x2="-123.1138" y2="-66.04" width="0" layer="19" extent="1-1"/>
@@ -2778,7 +3105,7 @@ design rules under a new name.</description>
 <wire x1="59.825" y1="9.64" x2="50.935" y2="9.64" width="0" layer="19" extent="1-1"/>
 <wire x1="68.715" y1="9.64" x2="59.825" y2="9.64" width="0" layer="19" extent="1-1"/>
 <wire x1="77.605" y1="9.64" x2="68.715" y2="9.64" width="0" layer="19" extent="1-1"/>
-<wire x1="88.9" y1="67.31" x2="77.605" y2="9.64" width="0" layer="19" extent="1-1"/>
+<wire x1="90.17" y1="74.93" x2="77.605" y2="9.64" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$17">
 <contactref element="U2" pad="6"/>
@@ -2799,7 +3126,7 @@ design rules under a new name.</description>
 <wire x1="-133.849" y1="-288.29" x2="-133.849" y2="-295.91" width="0" layer="19" extent="1-1"/>
 <wire x1="-133.849" y1="-284.48" x2="-133.849" y2="-288.29" width="0" layer="19" extent="1-1"/>
 <wire x1="-133.849" y1="-273.05" x2="-133.849" y2="-284.48" width="0" layer="19" extent="1-1"/>
-<wire x1="91.44" y1="62.23" x2="-133.849" y2="-273.05" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="69.85" x2="-133.849" y2="-273.05" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="POT_SDA">
 <contactref element="R8" pad="1"/>
@@ -2810,7 +3137,7 @@ design rules under a new name.</description>
 <wire x1="-135.391" y1="-292.1" x2="-135.391" y2="-299.72" width="0" layer="19" extent="1-1"/>
 <wire x1="-135.391" y1="-280.67" x2="-135.391" y2="-292.1" width="0" layer="19" extent="1-1"/>
 <wire x1="-135.391" y1="-276.86" x2="-135.391" y2="-280.67" width="0" layer="19" extent="1-1"/>
-<wire x1="91.44" y1="64.77" x2="-135.391" y2="-276.86" width="0" layer="19" extent="1-1"/>
+<wire x1="92.71" y1="72.39" x2="-135.391" y2="-276.86" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$12">
 <contactref element="U2" pad="7"/>
